@@ -1,0 +1,13 @@
+body{
+background-image:url(mercury\ image\ \(2\).jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+background-size: cover;
+}
+p{
+color: white
+}
+h1{
+color: white;
+}

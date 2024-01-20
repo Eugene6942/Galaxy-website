@@ -1,0 +1,13 @@
+body{
+background-image: url(mars\ images\ \(1\).jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+h1{
+color: white;
+}
+p{
+color: white;
+}
